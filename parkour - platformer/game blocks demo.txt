@@ -1,0 +1,10 @@
+0 710 1150 20 False False False solid black
+490 610 100 20 False False False sticky green
+250 180 15 480 False False True solid black
+375 180 15 480 False True False solid black
+390 180 80 15 False False False solid black
+500 80 80 15 False False False solid black
+650 0 80 15 False False False solid black
+800 -80 80 15 False False False solid black
+650 -160 80 15 False False False solid black
+500 -240 80 15 False False False solid black
